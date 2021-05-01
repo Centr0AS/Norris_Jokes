@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/jokes"
+        android:enabled="true"
+        android:title="JOKES"
+        android:icon="@drawable/ic_baseline_5g_24" />
+
+    <item
+        android:id="@+id/web"
+        android:enabled="true"
+        android:title="WEB"
+        android:icon="@drawable/ic_baseline_1k_24" />
+
+</menu>
